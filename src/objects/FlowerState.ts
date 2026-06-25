@@ -1,0 +1,5 @@
+export enum FlowerState {
+  FRESH = 'FRESH',
+  COLLECTED = 'COLLECTED',
+  REGENERATING = 'REGENERATING',
+}
